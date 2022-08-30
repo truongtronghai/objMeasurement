@@ -5,7 +5,7 @@ Cac vat the sau se lay ty le nhan len ta se co kich thuoc cua no
 import os,sys,cv2
 import numpy as np
 
-DEBUG = False
+DEBUG = True
 
 '''
 Formating text for showing code on window
